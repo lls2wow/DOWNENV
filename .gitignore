@@ -1,0 +1,5 @@
+# 勿提交带真实密钥的本地 env
+*.secret
+.env.local
+**/ossutil-test.conf
+**/ossutil-test.*.conf
